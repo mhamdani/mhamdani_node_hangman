@@ -1,0 +1,33 @@
+{
+  "name": "node_hangman",
+  "version": "1.0.0",
+  "description": "a hangman command-line game using constructor functions",
+  "main": "game_play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhamdani/node_Hangman.git"
+  },
+  "keywords": [
+    "node",
+    "hangman",
+    "constructor",
+    "functions"
+  ],
+  "author": "mhamdani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhamdani/node_Hangman/issues"
+  },
+  "homepage": "https://github.com/mhamdani/node_Hangman#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0"
+  }
+}
