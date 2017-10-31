@@ -1,9 +1,9 @@
 // Dependencies
 var colors = require('colors');
 var inquirer = require('inquirer');
-var config = require('./config.js');
-var Game = require('./game_rules.js');
-var Word = require('./word_constructor.js');
+var config = require('./logic/config.js');
+var Game = require('./logic/game_rules.js');
+var Word = require('./logic/word_constructor.js');
 // var Prompt = require('./prompt.js');
 
 
